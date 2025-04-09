@@ -6,7 +6,7 @@ import heapq
 import time
 import itertools
 import collections
-
+ 
 file_name = 'Result/15/C101_1-15.csv'
 file_name_csv = 'Result/result.csv'
 # file_path = "test_data\\Mine\\20x20_15.dat"
